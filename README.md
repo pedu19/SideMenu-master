@@ -55,6 +55,7 @@ Check out the example project to see it in action!
 - [x] Swift 5.
 - [x] iOS 10 or higher.
 
+
 ## Installation
 ### CocoaPods
 
