@@ -1,0 +1,25 @@
+PODS:
+  - pointzi (1.5.8):
+    - pointzi/Lite (= 1.5.8)
+  - pointzi/Lite (1.5.8)
+  - SideMenu (6.4.7)
+
+DEPENDENCIES:
+  - pointzi
+  - SideMenu (from `.`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - pointzi
+
+EXTERNAL SOURCES:
+  SideMenu:
+    :path: "."
+
+SPEC CHECKSUMS:
+  pointzi: 6a57d72c9f3132bc156ae822d24fb972fb212469
+  SideMenu: 928a015669c3afc201e1fe3a87f1b0bc8993a664
+
+PODFILE CHECKSUM: 14dc13994730e951aca8949f4a2bac97d7169ef8
+
+COCOAPODS: 1.8.4
